@@ -1,6 +1,6 @@
 <!-- https://tenor.com/ko/ -->
 <div align="center">
-  <img src="tenor (1).gif" width:"800" />
+  <img src="tenor (1).gif" width="800" />
 </div>
 
 ## Hi there! I'm Zion 👋

@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Jaewoong Choi
+# 👋 Hi there! I'm Jaewoong Choi (Zion)
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
 Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
@@ -32,7 +32,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ## 🎓 Education
 
-📍 **Chungbuk National University**  
+📍 **Chungbuk National University** – *B.S. in Computer Science and Engineering*  
 🗓️ March 2021 ~ Present
 
 ---

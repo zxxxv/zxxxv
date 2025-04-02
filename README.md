@@ -1,5 +1,5 @@
 
-<img src="tenor(1).gif" width="300"/>
+<img src="tenor (1).gif" width="500"/>
 
 ## Hi there! I'm Zion 👋
 

@@ -9,6 +9,10 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ---
 
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![divider](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

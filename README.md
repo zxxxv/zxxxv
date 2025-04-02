@@ -43,3 +43,23 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 
 ---
+
+## 🚀 Projects
+
+### 📌 [Project Name](https://github.com/yourusername/project-repo)
+설명 한 줄: 어떤 걸 만들었고 어떤 기술을 썼는지  
+주요 기능, 특징 간단하게 리스트로 정리해주면 좋아
+
+- 🔧 Tech: Python, Flask, MySQL
+- ✨ Features:
+  - 유저 로그인/회원가입
+  - 게시판 기능
+  - 댓글 & 좋아요 시스템
+
+---
+
+### 📌 [다른 프로젝트 이름](https://github.com/yourusername/another-project)
+간단한 설명 한 줄
+
+- 🔧 Tech: C, Linux, Shell Script
+- 🧠 내용: 리눅스 기반 시스템 모니터링 툴 개발

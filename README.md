@@ -1,4 +1,7 @@
-# 👋 Hi there! I'm Jaewoong Choi (Zion)
+## Hi there! I'm Zion 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
+
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
 Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
@@ -41,6 +44,12 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 📧 jaewoongchoi46@gmail.com  
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname) -->
+
+---
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
 
 ---
 

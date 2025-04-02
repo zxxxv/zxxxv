@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23DA70D6&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
 
-<img src="https://tenor.com/mxwhQhLfGpA.gif" width="300"/>
+<div class="tenor-gif-embed" data-postid="10387775907180119940" data-share-method="host" data-aspect-ratio="1.11659" data-width="100%"><a href="https://tenor.com/view/snoopy-giggle-chuckle-lol-gif-10387775907180119940">Snoopy Giggle GIF</a>from <a href="https://tenor.com/search/snoopy-gifs">Snoopy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 

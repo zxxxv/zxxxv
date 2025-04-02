@@ -4,6 +4,7 @@
 
 <img src="https://media.tenor.com/lE4xPN8YhF0AAAAC/snoopy-giggle.gif" width="300"/>
 
+
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
 Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
 

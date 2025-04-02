@@ -1,4 +1,4 @@
-## Hi there! I'm Jaewoong Choi (Zion) 👋
+## Hi there! I'm Zion 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23DA70D6&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
 

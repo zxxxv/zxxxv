@@ -44,7 +44,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ---
 
-## 🚀 Projects
+[## 🚀 Projects
 
 ### 📌 [Project Name](https://github.com/yourusername/project-repo)
 설명 한 줄: 어떤 걸 만들었고 어떤 기술을 썼는지  
@@ -62,4 +62,4 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 간단한 설명 한 줄
 
 - 🔧 Tech: C, Linux, Shell Script
-- 🧠 내용: 리눅스 기반 시스템 모니터링 툴 개발
+- 🧠 내용: 리눅스 기반 시스템 모니터링 툴 개발](url)

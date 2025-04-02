@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=982CF7&background=FF50B900&width=435&lines=Who+am+I%3F;)](https://git.io/typing-svg)
-
 # 👋 Hi there! I'm Jaewoong Choi
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
@@ -20,8 +18,8 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ## 📈 GitHub Stats
 
-![Jaewoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoongchoi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongchoi&layout=compact&theme=tokyonight)
+![Jaewoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoongchoi&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongchoi&layout=compact&theme=default)
 
 ---
 
@@ -41,8 +39,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ## 📫 Contact
 
-
-📧 jaewoongchoi46@gmail.com
-
+📧 jaewoongchoi46@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 
 ---

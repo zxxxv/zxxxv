@@ -14,6 +14,29 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ---
 
 
+## 🏅 Certifications
+
+- 🛠️ **Information Processing Engineer** *(In Progress)*  
+- 🐧 **Linux Master Level 1** *(Certified by KAIT) – In Progress*
+
+---
+
+## 🎓 Education
+
+📍 **Chungbuk National University** – *B.S. in Computer Science and Engineering*  
+🗓️ March 2021 ~ Present
+
+---
+
+## 📫 Contact
+
+📧 jaewoongchoi46@gmail.com  
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname) -->
+
+
+---
+
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,27 +57,6 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ![Jaewoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoongchoi&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongchoi&layout=compact&theme=default)
-
----
-
-## 🏅 Certifications
-
-- 🛠️ **Information Processing Engineer** *(In Progress)*  
-- 🐧 **Linux Master Level 1** *(Certified by KAIT) – In Progress*
-
----
-
-## 🎓 Education
-
-📍 **Chungbuk National University** – *B.S. in Computer Science and Engineering*  
-🗓️ March 2021 ~ Present
-
----
-
-## 📫 Contact
-
-📧 jaewoongchoi46@gmail.com  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname) -->
 
 ---
 

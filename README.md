@@ -10,7 +10,7 @@
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
 Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
-<img src="https://media.tenor.com/lE4xPN8YhF0AAAAC/snoopy-giggle-chuckle.gif" width="30" style="display:inline-block; margin-left:6px;" />
+<img src="tenor.gif" width="30" style="display:inline-block; margin-left=6px;" />
 
 ---
 

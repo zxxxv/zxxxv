@@ -47,13 +47,6 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ---
 
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
-
-
----
-
 <!-- ## 🚀 Projects
 
 ### 📌 [Project Name](https://github.com/yourusername/project-repo)

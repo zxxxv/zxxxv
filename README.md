@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=982CF7&background=FF50B900&width=435&lines=Who+am+I%3F;)](https://git.io/typing-svg)
 
+### 👋 Hello! I'm Jane, a passionate full-stack developer
+- 🔭 I’m currently working on a portfolio site
+- 🌱 I’m learning Rust and Docker
+- 💬 Ask me about Python, React, or Kubernetes!
+
 **Contact**  
 jaewoongchoi46@gmail.com
 

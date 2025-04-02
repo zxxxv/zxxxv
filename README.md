@@ -1,6 +1,6 @@
 ## Hi there! I'm Zion 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300C853&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
 
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  

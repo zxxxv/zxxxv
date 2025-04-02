@@ -46,7 +46,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ## 📫 Contact
 
 📧 jaewoongchoi46@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaewoongchoi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/최재웅)
 
 
 ---

@@ -13,5 +13,5 @@ March.2021 ~ present  Chungbuk National University
 
 
 **Certifications**  
-Information Processing Engineer (In Progress)
+Information Processing Engineer (In Progress)  
 Linux Master Level 1 (Certified by KAIT) (In Progress)

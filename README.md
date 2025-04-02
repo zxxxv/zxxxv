@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23DA70D6&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://tenor.com/biex7.gif" width="500"/>
 
 I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
 Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
@@ -10,6 +10,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ---
 
 ![divider](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
 
 ## 🛠 Tech Stack
 

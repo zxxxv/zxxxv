@@ -47,19 +47,25 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <img src="jim.gif" width="600" />
-</div>
-
 
 ---
+
 
 ## 📈 GitHub Stats
 
 ![Jaewoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoongchoi&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongchoi&layout=compact&theme=default)
 
+
 ---
+
+
+<div align="center">
+  <img src="jim.gif" width="600" />
+</div>
+
+
+
 
 <!-- ## 🚀 Projects
 

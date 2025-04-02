@@ -15,3 +15,12 @@ March.2021 ~ present  Chungbuk National University
 **Certifications**  
 Information Processing Engineer (In Progress)  
 Linux Master Level 1 (Certified by KAIT) (In Progress)
+
+### 📫 Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+
+### 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)

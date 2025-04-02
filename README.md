@@ -44,7 +44,7 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 
 ---
 
-[## 🚀 Projects
+## 🚀 Projects
 
 ### 📌 [Project Name](https://github.com/yourusername/project-repo)
 설명 한 줄: 어떤 걸 만들었고 어떤 기술을 썼는지  

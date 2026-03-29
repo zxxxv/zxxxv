@@ -52,15 +52,6 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ---
 
 
-## 📈 GitHub Stats
-
-![Jaewoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoongchoi&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongchoi&layout=compact&theme=default)
-
-
----
-
-
 
 
 <!-- ## 🚀 Projects

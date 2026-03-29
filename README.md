@@ -61,11 +61,6 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ---
 
 
-<div align="center">
-  <img src="jim.gif" width="600" />
-</div>
-
-
 
 
 <!-- ## 🚀 Projects

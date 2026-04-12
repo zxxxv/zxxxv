@@ -1,9 +1,4 @@
 <!-- https://tenor.com/ko/ -->
-<div align="center">
-  <img src="tenor (1).gif" width="800" />
-</div>
-
-## Hi there! I'm Zion 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23DA70D6&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
 
@@ -25,14 +20,6 @@ Passionate about Linux, system programming, and becoming a solid engineer throug
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
----
-
-
-## 🏅 Certifications
-
-- 🛠️ **Information Processing Engineer** *(In Progress)*  
-- 🐧 **Linux Master Level 1** *(Certified by KAIT) – In Progress*
 
 ---
 

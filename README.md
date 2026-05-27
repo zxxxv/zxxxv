@@ -1,9 +1,5 @@
 <!-- https://tenor.com/ko/ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23DA70D6&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+and+Engineering+Student;Passionate+about+Linux+and+Open+Source)](https://git.io/typing-svg)
-
-I'm an aspiring developer currently studying Computer Science and working toward professional certifications in software and systems.  
-Passionate about Linux, system programming, and becoming a solid engineer through steady growth.
 <!-- <img src="cat.gif" width="80" style="display:inline-block; margin-left=6px;" />-->
 
 
